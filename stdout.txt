@@ -1,0 +1,440 @@
+Largest games by app size in MB per year
+                                              App Name          Size    year
+0                                                QBeez    253.416016  2008.0
+1                                              PAC-MAN    210.491211  2008.0
+2                                                Kroll    200.907869  2008.0
+3                                  Solitaire Classic ©    172.075195  2008.0
+4    Soccer Physics - free online foosball skill fr...    150.086914  2008.0
+5                                           Checkers ・    118.766602  2008.0
+6                       Backgammon - Classic Dice Game    114.958008  2008.0
+7                                      Crazy Snowboard     98.872070  2008.0
+8                                     Deep Green Chess     94.563477  2008.0
+9                                     Iron Fist Boxing     93.884766  2008.0
+10                                           Space Ace   2161.584961  2009.0
+11               GUN CLUB 2 - Best in Virtual Weaponry   1446.156250  2009.0
+12                                       Catan Classic    846.562500  2009.0
+13                        Sally's Spa: Faced-Paced Fun    667.936523  2009.0
+14                                       Myst Français    651.315430  2009.0
+15                                        Myst Deutsch    649.487305  2009.0
+16                                Myst Mobile (Legacy)    588.014648  2009.0
+17                                          Myst Japan    581.392578  2009.0
+18                         Urban Rivals - Street Cards    566.636719  2009.0
+19                                         Sally's Spa    475.040039  2009.0
+20                                    Dragon's Lair HD   1979.262695  2010.0
+21                                     Smurfs' Village   1865.612305  2010.0
+22                             Memories Off 6 ~T-wave~   1661.915039  2010.0
+23                                     CHAOS;HEAD NOAH   1625.760742  2010.0
+24                                  CHAOS;HEAD NOAH HD   1534.448242  2010.0
+25                       Drift Mania Championship Lite   1124.557617  2010.0
+26                              Riven (iPhone version)   1119.517578  2010.0
+27             Nancy Drew - Shadow at the Water's Edge   1046.330683  2010.0
+28                                   Mahjong Deluxe Go    889.761719  2010.0
+29                                 GTA: Chinatown Wars    838.733398  2010.0
+30                                  X3 Terran Conflict   7213.342400  2011.0
+31                                     Civilization® V   5019.761985  2011.0
+32                                         Psychonauts   4223.358104  2011.0
+33                                               Ryzom   3618.802633  2011.0
+34   Jules Verne's Return to Mysterious Island 2 – ...   2782.175104  2011.0
+35                                           FlatOut 2   2676.533793  2011.0
+36                                             Trine 2   2521.975207  2011.0
+37                                   Star Wars™: KOTOR   2100.912992  2011.0
+38     Nostradamus: The Last Prophecy - Director's Cut   2022.096675  2011.0
+39                                Celtic Heroes 3D MMO   1976.903320  2011.0
+40                                       Borderlands 2  32786.889726  2012.0
+41                                   Total War: EMPIRE  13229.675713  2012.0
+42                                        Stronghold 3   3902.217402  2012.0
+43                                       Baldur's Gate   3152.189453  2012.0
+44                         N.O.V.A. 3: Premium Edition   2676.589844  2012.0
+45                      TheWorldEndswithYou: SoloRemix   2654.839844  2012.0
+46                      TheWorldEndswithYouSoloRemixHD   2639.195312  2012.0
+47                                  Hollywood Monsters   2304.464844  2012.0
+48                      Nancy Drew - The Deadly Device   2263.557241  2012.0
+49                 Nancy Drew - Tomb of the Lost Queen   2194.572865  2012.0
+50                                 Total War: NAPOLEON  15883.465807  2013.0
+51                                             Memoria   8980.123645  2013.0
+52                                       Brütal Legend   8130.383879  2013.0
+53                                   Metro: Last Light   8038.955673  2013.0
+54                                 Night of the Rabbit   5897.654902  2013.0
+55                                Baldur's Gate II: EE   3574.348633  2013.0
+56                                     Goodbye Deponia   3556.424423  2013.0
+57                                    Baldur's Gate II   3207.695649  2013.0
+58                                   Runaway 2 - Vol 2   3146.275391  2013.0
+59                                          République   3035.370117  2013.0
+60                             Divinity - Original Sin  15944.697865  2014.0
+61                      Total War: FALL OF THE SAMURAI  15279.374852  2014.0
+62                                 Total War: SHOGUN 2  13756.666344  2014.0
+63                                         Tomb Raider  11776.901622  2014.0
+64                                    Dead Island GOTY  11519.815058  2014.0
+65                       Deponia: The Complete Journey   7902.506459  2014.0
+66                          Civilization: Beyond Earth   5556.764846  2014.0
+67                         World of Tanks Blitz 3D War   3401.707031  2014.0
+68                                 XCOM®: Enemy Within   3355.521484  2014.0
+69                                        Icewind Dale   2857.451172  2014.0
+70                      Company of Heroes 2 Collection  40105.749650  2015.0
+71                              Thief™: Shadow Edition  25176.221751  2015.0
+72                             Medieval II: Total War™  24550.936650  2015.0
+73                  Alien: Isolation™ - The Collection  19926.905502  2015.0
+74                                           SOMA 2015  11600.260620  2015.0
+75                                         EMERGENCY 5  10665.127587  2015.0
+76                                  Dreamfall Chapters   9754.576788  2015.0
+77                             Metro: Last Light Redux   8463.049444  2015.0
+78                                    Trainz A New Era   7901.804539  2015.0
+79                                    Metro 2033 Redux   7070.713498  2015.0
+80                                              XCOM 2  30446.241404  2016.0
+81                   Sleeping Dogs™ Definitive Edition  16027.131930  2016.0
+82                       Warhammer 40K: Dawn of War II  15725.799969  2016.0
+83                        Dawn of War II: Chaos Rising  15725.378107  2016.0
+84                                    Life Is Strange™  13122.046000  2016.0
+85                                    Civilization® VI  12825.677129  2016.0
+86                         Dawn of War II: Retribution  11499.846849  2016.0
+87                                      EMERGENCY 2017  10664.221331  2016.0
+88            Divinity - Original Sin Enhanced Edition   9547.795527  2016.0
+89                         Wasteland 2: Director's Cut   9449.283809  2016.0
+90                                           Mafia III  46456.905587  2017.0
+91                                          DiRT Rally  42760.803113  2017.0
+92                                Total War: WARHAMMER  32657.772740  2017.0
+93                                            F1™ 2017  28563.944528  2017.0
+94                           Warhammer® 40K®: DoW® III  27607.889937  2017.0
+95                                            F1™ 2016  25203.116389  2017.0
+96                                           Syberia 3  22148.272107  2017.0
+97                                 BioShock Remastered  19103.241276  2017.0
+98                                        EMERGENCY 20  10663.529933  2017.0
+99                                     Sudden Strike 4   7710.334573  2017.0
+100                      Aerofly FS 2 Flight Simulator  32337.811107  2018.0
+101                           Rise of the Tomb Raider™  30133.448536  2018.0
+102                                              MXGP3  12046.912720  2018.0
+103                               THRONES OF BRITANNIA  10690.194623  2018.0
+104                                      State of Mind   8959.545547  2018.0
+105                               Farming Simulator 19   6209.936215  2018.0
+106                     FlyWings 2018 Flight Simulator   5065.486952  2018.0
+107                              Escape from Chernobyl   4125.322886  2018.0
+108                                        Royal Chaos   4112.043945  2018.0
+109                          DanMachi - MEMORIA FREESE   4026.131836  2018.0
+110                          Total War: THREE KINGDOMS  43870.335733  2019.0
+111                          Shadow of the Tomb Raider  36724.346972  2019.0
+112                                             DiRT 4  35358.327187  2019.0
+113                                          Tropico 6  29271.119881  2019.0
+114                           Divinity: Original Sin 2  19080.738066  2019.0
+115                                             Gravel  13965.631471  2019.0
+116                                          Frostpunk   9061.173563  2019.0
+117                                                ZED   8775.092298  2019.0
+118                                              KURSK   8755.049427  2019.0
+119                       EVERSPACE™ - Stellar-Edition   5323.803354  2019.0
+120                            Total War: WARHAMMER II  45104.025642  2020.0
+121                                  Life is Strange 2  40410.851272  2020.0
+122                              BioShock 2 Remastered  12624.927711  2020.0
+123                                     Planet Coaster  11356.222295  2020.0
+124                      Disco Elysium - The Final Cut   8811.179903  2020.0
+125                                   Company of Crime   7668.400978  2020.0
+126                                  Estranged: Act II   5354.733924  2020.0
+127                                      Monster Quest   4107.361328  2020.0
+128                         Date A Live: Spirit Pledge   3947.396484  2020.0
+129                                    Aerofly FS 2021   3862.772461  2020.0
+130                                       Metro Exodus  73222.591724  2021.0
+131                         Total War: ROME REMASTERED  55966.684362  2021.0
+132                                  Transport Fever 2  15575.170883  2021.0
+133                                               Myst  10058.645808  2021.0
+134                        Frostpunk: Complete Edition   9061.171264  2021.0
+135                                 Pascal's Wager: DE   7931.781907  2021.0
+136                                           Base One   5975.696351  2021.0
+137                           Riddle of the Sphinx™ HD   4704.712618  2021.0
+138                            MHA: The Strongest Hero   3998.992188  2021.0
+139                           Svoboda 1945: Liberation   3754.695312  2021.0
+140                              LOST in Blue (Global)   2394.121094  2022.0
+141                                      Galaxy Mobile   1081.780273  2022.0
+142                                    Timewreck Tales    413.316406  2022.0
+143                     Pet Care Game–My Cat & Dog Sim    343.963867  2022.0
+144                                          Magicabin    336.686523  2022.0
+145                     Summer Athletics Sports 3D Sim    327.161133  2022.0
+146                     Twins Baby Care & Newborn Game    315.616211  2022.0
+147                     High School Anime Teacher Game    305.040039  2022.0
+148                     Billionaire Rich Dad Family 3D    301.818359  2022.0
+149                     Anime Pregnant Mother Care Sim    276.645508  2022.0
+Largest music apps by app size in MB per year
+                           App Name         Size    year
+0                        Capital FM   228.415039  2008.0
+1    Deezer: Music & Podcast Player   131.972656  2008.0
+2                     Holiday Bells   117.810547  2008.0
+3                         Christmas   107.705078  2008.0
+4               Sonos S1 Controller   107.688477  2008.0
+5                        Cadena 100   106.034180  2008.0
+6                         FourTrack   100.505859  2008.0
+7                     Songs of Love    79.479492  2008.0
+8                    ANTENNE BAYERN    55.920898  2008.0
+9                      ROCK ANTENNE    54.147461  2008.0
+10                     Music Studio   774.970703  2009.0
+11                             Gold   231.008789  2009.0
+12                            Heart   226.872070  2009.0
+13                          Radio X   226.715820  2009.0
+14                         ThumbJam   216.111328  2009.0
+15                           GAY FM   213.359375  2009.0
+16    SiriusXM:Music,Podcast&Sports   211.406250  2009.0
+17            Schlager Radio Paloma   202.332031  2009.0
+18                       StudioMini   201.603516  2009.0
+19                     Raidió Rí-Rá   196.882812  2009.0
+20   Core Course For Omnisphere 101  1638.103516  2010.0
+21               Piano Music Scores  1223.760742  2010.0
+22      Course For Ableton Live 101  1106.572266  2010.0
+23               AmpliTube for iPad   967.458984  2010.0
+24            AmpliTube CS for iPad   967.447266  2010.0
+25         Intro to Recording Audio   930.388672  2010.0
+26             Core Melodyne Course   897.271484  2010.0
+27   Melody Course for Music Theory   785.037109  2010.0
+28                        AmpliTube   773.917969  2010.0
+29                     AmpliTube CS   773.902344  2010.0
+30          Make Killer Drums Guide  2039.798828  2011.0
+31         Make Killer Drums Course  1963.284487  2011.0
+32    Core Course For MainStage - 2  1956.582031  2011.0
+33      Core Course For MainStage 2  1888.537120  2011.0
+34       Explore Course for Trilian  1784.671700  2011.0
+35                       GarageBand  1597.953125  2011.0
+36                         Sting 25  1592.548828  2011.0
+37       Core Course For Omnisphere  1582.420330  2011.0
+38                       SampleTank  1538.171875  2011.0
+39                    SampleTank CS  1538.136719  2011.0
+40    Elbphilharmonie Hamburg 3D HD  2148.046875  2012.0
+41                  CMP Grand Piano  1665.830078  2012.0
+42   Basslines  Music Theory Course  1263.550781  2012.0
+43      Mix Digital, Sound Analog !  1214.789062  2012.0
+44                    Drum Loops HD  1128.757812  2012.0
+45                        Cubasis 2  1093.166016  2012.0
+46     Mastering Course For WaveLab  1055.375000  2012.0
+47         Auria - Music Production  1020.688477  2012.0
+48             SessionBand Original  1014.579102  2012.0
+49        Dubstep Essentials Course   960.947266  2012.0
+50               Risale-i Nur Dinle  2894.672852  2013.0
+51         Beethoven’s 9th Symphony  1958.220703  2013.0
+52             Learn For LogicPro X  1951.049435  2013.0
+53             Learn For ProTools11  1782.998643  2013.0
+54                      FL Advanced  1613.479128  2013.0
+55        Editing & Metering Course  1542.401053  2013.0
+56                            Burea  1409.699219  2013.0
+57                            Pitea  1259.537109  2013.0
+58                Learn For SONARX2  1227.924438  2013.0
+59         Vocal Guide for Nectar 2  1208.541172  2013.0
+60                      House Music  5087.920526  2014.0
+61                           HipHop  4852.264268  2014.0
+62     Mastering Course for Ozone 6  3339.425781  2014.0
+63                    KORG Gadget 2  2350.425781  2014.0
+64                 Oriental Strings  1909.468750  2014.0
+65                   Learning Piano  1881.365826  2014.0
+66           Vivaldi’s Four Seasons  1848.055664  2014.0
+67                  KORG Module Pro  1709.205078  2014.0
+68                  Mozart Concerto  1617.766602  2014.0
+69     Intro Guide for BreakTweaker  1299.225716  2014.0
+70       Film Dialog Editing Course  2900.240476  2015.0
+71      Audio Repair Course for RX4  2129.404297  2015.0
+72         Producing House & Techno  1820.496094  2015.0
+73                        MarcMoerd  1817.794922  2015.0
+74     Advanced Course Midi Toolbox  1796.738281  2015.0
+75      Audio Repair Course For RX3  1743.333984  2015.0
+76                      KORG Module  1709.160156  2015.0
+77      Intro Course for Combinator  1706.382812  2015.0
+78     Combinator Course For Reason  1639.089792  2015.0
+79    Hip Hop Course for LP X by AV  1620.494141  2015.0
+80        Turbosounds for Accordion  2646.949219  2016.0
+81    Intro Course for MPC Software  2367.378906  2016.0
+82                      MixingMusic  1944.202148  2016.0
+83                      MixingMusic  1916.377555  2016.0
+84          LearnFor Adobe Audition  1644.399414  2016.0
+85           MIDI FX Course for LPX  1475.759766  2016.0
+86   Composer Guide for Logic Pro X  1440.342403  2016.0
+87       Advanced Class For Alchemy  1376.296875  2016.0
+88           MIDI FX Guide For LP X  1372.694271  2016.0
+89          Intro Course For Push 2  1264.177937  2016.0
+90            Neo-Soul Keys® Studio  3714.599609  2017.0
+91   Tips & Tricks Course For Live9  2072.929104  2017.0
+92              LearnFor Sibelius 8  1525.450195  2017.0
+93    Disfunktion's Big Room Course  1244.457975  2017.0
+94        Mixing FX Course for Live  1208.982422  2017.0
+95                   CalmusComposer  1132.062823  2017.0
+96               CalmusComposerLite  1131.812605  2017.0
+97    Beginner's Guide For Bitwig 2  1130.910156  2017.0
+98      Mixing FX Course for Live 9  1124.205664  2017.0
+99          Effects Course For Live  1118.005859  2017.0
+100  Drum Machine Loops - Loop Drum  3809.354492  2018.0
+101        Ukulele 101 - Next Steps  3059.808594  2018.0
+102     King James Audio Bible Book  2546.798828  2018.0
+103   Ukulele 101 - Getting Started  2250.246094  2018.0
+104      Mixing EDM in Pro Tools 12  2103.617188  2018.0
+105      Backline Course For Rig V3  2016.144531  2018.0
+106  Mixing EDM Guide for Pro Tools  1982.146140  2018.0
+107  Explore Backline Rig-V3 Course  1942.026757  2018.0
+108       Synthetic Rig V3 Explored  1893.871094  2018.0
+109    Video FX Course for Max Live  1873.148438  2018.0
+110              TriplePlay Connect  3809.754883  2019.0
+111               Singalong Solfège  3768.061523  2019.0
+112        Flutes & Oboes by AV 103  2179.316406  2019.0
+113                       Maranatha  2165.205078  2019.0
+114      Flutes and Oboes by AV 103  2015.979100  2019.0
+115   Clarinet, Saxaphone & Bassoon  1889.291016  2019.0
+116    Mix & Master Course on RigV3  1775.763672  2019.0
+117   Woodwind Orchestration Course  1704.846285  2019.0
+118  Recording Guitars Course by AV  1673.419922  2019.0
+119  Recording Guitar Course By mPV  1656.669922  2019.0
+120   Beginner Guide for Maschine +  2669.634766  2020.0
+121  Intro Course for Subharmonicon  1997.738281  2020.0
+122      Sampler Course for Trilian  1846.857422  2020.0
+123     Digital Sanctuaries Harvard  1842.127930  2020.0
+124         Digital Sanctuaries NYC  1820.198242  2020.0
+125  Music Theory For DAW Musicians  1768.115234  2020.0
+126   Explore Course for ARP 2600 V  1747.656250  2020.0
+127    SessionBand Soul Jazz Funk 1  1654.103516  2020.0
+128  Music Theory For DAW Musicians  1625.839652  2020.0
+129  Explained Course For Reason 11  1618.681641  2020.0
+130              HMX Master Guitar™  3619.605469  2021.0
+131                      SampleTron  3451.390625  2021.0
+132        Guide for Behringer 2600  3107.289062  2021.0
+133           Avec Des Cris De Joie  2528.247070  2021.0
+134     Explore Course For Nautilus  1996.050781  2021.0
+135    Mastering in Pro Tools Guide  1712.392578  2021.0
+136   Beginner's Guide to Pro Tools  1493.425781  2021.0
+137     Recording Live Drums For LP  1344.988935  2021.0
+138  Beginner Guide For MatrixBrute  1297.080078  2021.0
+139  Adv Mixing Guide for Logic Pro  1238.802734  2021.0
+Largest health & fitness apps by app size in MB per year
+                                              App Name         Size    year
+0                          Map My Ride by Under Armour   242.536133  2008.0
+1                       Map My Fitness by Under Armour   239.965820  2008.0
+2                           Map My Run by Under Armour   239.403320  2008.0
+3                                First Aid White Cross   193.860352  2008.0
+4                           Lose It! – Calorie Counter   184.162109  2008.0
+5                                     White Noise Lite    94.017578  2008.0
+6                               Menstrual Calendar FMC    32.087891  2008.0
+7                                         Interval Run    26.309570  2008.0
+8                                            Cures A-Z    19.388672  2008.0
+9                         Gluten Free Restaurant Cards    18.645508  2008.0
+10               Relaxing Sounds Of Nature & SPA Music   553.985352  2009.0
+11                         Sleep Cycle - Sleep Tracker   472.961914  2009.0
+12                       WW Weight Watchers Reimagined   342.960938  2009.0
+13                                   Navy SEAL Fitness   314.765625  2009.0
+14                      Facial Yoga Guru -Face Fitness   311.643555  2009.0
+15                        Relax Melodies: Sleep Sounds   307.640625  2009.0
+16                                      FitnessBuilder   287.142578  2009.0
+17           Free Relaxing Nature Sounds and SPA Music   244.544922  2009.0
+18                                       Music Healing   220.841797  2009.0
+19                                Army Survival Skills   212.207031  2009.0
+20                                          QE Squared  2279.363281  2010.0
+21                                     Hot Yoga Doctor  1087.596680  2010.0
+22                               Studio Darien Pilates   919.260742  2010.0
+23                                        Vitamins 101   823.500977  2010.0
+24                         Prenatal Yoga Pro - Fitness   403.897461  2010.0
+25     Meditation Sounds and Ambient Music to Meditate   385.131836  2010.0
+26                      Magic Window - Living Pictures   323.642578  2010.0
+27                                       Wahoo Fitness   322.893555  2010.0
+28   Relaxing Nature Sounds of Forest Stream, Smoot...   314.304688  2010.0
+29                       Relax Meditation: Guided Mind   300.746094  2010.0
+30                                  Pilates Classic DT  1578.416627  2011.0
+31                      At Home Workouts by Daily Burn   541.948242  2011.0
+32                                  Equine Acupressure   532.166016  2011.0
+33                      Sleep Sounds and Ambient Music   414.208008  2011.0
+34                       Stretch for Pain Relief Upper   390.411133  2011.0
+35                                       Baby Pacifier   384.539062  2011.0
+36                       Stretch For Pain Relief Lower   366.383789  2011.0
+37                                    C25K® 5K Trainer   356.615234  2011.0
+38   Easy Ab Workouts - Flatten and Tone Your Stoma...   344.375000  2011.0
+39                             Hypnose - Institut Bode   335.455078  2011.0
+40                                           Imagine-i  1552.983398  2012.0
+41                                    KURAGE - 安らかな眠りへ  1207.550781  2012.0
+42                       Virtual Gastric Band Hypnosis  1085.557617  2012.0
+43                      Studio Darien Advanced Pilates  1064.457031  2012.0
+44                        Yoga Studio: At-home classes   684.913086  2012.0
+45                            Wing Chun Masters 2 - HD   572.879883  2012.0
+46                                   Mentaltræning App   565.704102  2012.0
+47                                       Zombies, Run!   547.041992  2012.0
+48                             Tai Chi for Seniors Pro   504.155273  2012.0
+49                        Mindfulness: 2012 (Original)   418.557617  2012.0
+50                         Pregnancy: Life in the Womb  1109.657227  2013.0
+51                                      Sing Song Yoga   740.654297  2013.0
+52                                     Garmin Connect™   508.355469  2013.0
+53                                Omvana - Get In Flow   467.658203  2013.0
+54                           Kettlebell Tabata Trainer   465.969727  2013.0
+55   Yoga Class Free - Yoga Exercises for Better He...   428.964844  2013.0
+56   Relax Soundscapes: relaxing ambiences and whit...   403.627930  2013.0
+57                                    Brainwave Studio   375.984375  2013.0
+58   Performance Stretching - Foam Roller, Static, ...   358.844727  2013.0
+59                                          Mindspring   354.058594  2013.0
+60                       KBS Nichtraucher in 5 Stunden  1765.664062  2014.0
+61                      KBS: Nichtraucher in 5 Stunden  1765.285156  2014.0
+62                               Brigitte Fitness YOGA  1542.401367  2014.0
+63   YOGAMOUR 03 - Yin Yoga, still & tief • Video-Kurs  1286.964844  2014.0
+64   Jung Da-yeon FigureRobics,Fitness for Weight L...  1230.738281  2014.0
+65                                       TRUEVIEW lite   858.534180  2014.0
+66                          Wokamon - Walking app game   570.333984  2014.0
+67                                   Chi Universe Yoga   561.750000  2014.0
+68                                         NFL PLAY 60   527.068359  2014.0
+69                       HealthifyMe: Weight Loss Plan   505.609375  2014.0
+70                        Brigitte Fitness Health Yoga  1937.640625  2015.0
+71                                       NRI5H_Seminar  1766.152344  2015.0
+72                                       NRI5H Seminar  1765.402344  2015.0
+73                        Pregnancy Yoga with Tara Lee  1687.911133  2015.0
+74                                          Nautilus_S  1188.570312  2015.0
+75                                       SpellBound AR   890.177734  2015.0
+76                                          Nautilus_C   825.718750  2015.0
+77                      Abundance Course, Release Tech   812.212891  2015.0
+78                                          Opti Train   808.450195  2015.0
+79                           Relaxing Rhythms by Unyte   638.773438  2015.0
+80                                   Essilor Companion  2571.716797  2016.0
+81                                 Zwift: Ride and Run  2001.457031  2016.0
+82                                 Vision Simulator VR  1893.473633  2016.0
+83              Brigitte Fitness bodyART Power Workout  1506.478516  2016.0
+84                      Brigitte Fitness Intensiv Yoga  1250.568359  2016.0
+85        Moff PAC-MAN - Get Moving with the Moff Band  1248.173828  2016.0
+86                                         VisualizerS  1061.959961  2016.0
+87                                          O1-275 Pro  1054.034180  2016.0
+88                                             Orion_S  1046.321289  2016.0
+89                                  Relax Soothe Sleep   988.732422  2016.0
+90                  Hoya Vision Simulator VR (Offline)  3396.024414  2017.0
+91                          Brigitte Fitness Flow Yoga  1819.500977  2017.0
+92                                            Yoga Gym  1738.078125  2017.0
+93                                           O1-275 ME  1685.289062  2017.0
+94                                    Tony's 8 Minutes  1383.790039  2017.0
+95                  Brigitte Fitness Intensiv Training  1370.956055  2017.0
+96                       Dream Beach 2 - VR Relaxation  1068.602539  2017.0
+97                                               AI全維雲   993.050781  2017.0
+98                                           Flashwave   985.038086  2017.0
+99                       Sonus Island: Relaxing Sounds   881.926758  2017.0
+100                                           Mightier  3132.021484  2018.0
+101                                       AudioFitness  2168.760742  2018.0
+102                                          Video VIH  1360.279297  2018.0
+103                                         In-Fitness  1272.110352  2018.0
+104                                 I Found My Dentist  1179.507812  2018.0
+105                                        Schallpause  1124.763672  2018.0
+106                                   Share the Smiles  1063.822266  2018.0
+107                                 Freedom Yoga (PRO)  1053.717773  2018.0
+108                                           HIPNOMAX   954.669922  2018.0
+109                                     LT Sports 乐透运动   867.457031  2018.0
+110                                         O1-275-6FI  2606.326172  2019.0
+111                          Arcade Fitness Bike & Run  1907.483398  2019.0
+112                       Celtic Whispers - Meditation  1499.276367  2019.0
+113                      Music & Ambiences for Therapy  1238.497070  2019.0
+114                     Quantum Frequency Technologies   946.000977  2019.0
+115                                        Be POSITIVE   927.552734  2019.0
+116                        Kiehl's Apothecary Prep™ v2   898.027344  2019.0
+117                                     Gymlete Studio   886.894531  2019.0
+118                                           Finitude   865.037109  2019.0
+119                                    TINA en Español   848.750000  2019.0
+120                                 HOLOFIT VR Fitness  3498.331055  2020.0
+121                                        Three Sages  3281.028320  2020.0
+122                                              Core5  2492.441406  2020.0
+123                                      Be Everything  2017.104492  2020.0
+124                                    Augment Therapy  1948.301758  2020.0
+125                           Bodyweight Workout Coach  1870.552734  2020.0
+126                           Drift - wellness + sleep  1722.414062  2020.0
+127                     Simple Habit Tracker - Habseed  1620.096680  2020.0
+128                     Fan noise machine baby shusher  1324.828125  2020.0
+129                            Beaches by Magic Window  1269.790039  2020.0
+130                                 Mobil im Havelland  6351.762695  2021.0
+131                                 Smart Fitness Ring  3344.178711  2021.0
+132                                    Kinitro Fitness  3164.018555  2021.0
+133                                    Dancing Blanket  2733.348633  2021.0
+134                                      Active Arcade  1468.219727  2021.0
+135                                            Klocked  1251.123047  2021.0
+136                                     MeditationTime  1051.313477  2021.0
+137                                             FITRIS  1048.500977  2021.0
+138                                          Mindabout  1024.864258  2021.0
+139                                             Maloka  1008.347656  2021.0
+140                     Contraction Counter &Timer App    60.670898  2022.0
+average rating of games apps: 4.31
+average rating of music apps: 4.47
+average rating of health and fitness apps: 4.55
