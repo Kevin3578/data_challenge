@@ -76,7 +76,7 @@ games_monthly_counts['year_month'] = games_monthly_counts['Released'].dt.to_peri
 games_year_month = games_monthly_counts.groupby('year_month').size()
 games_year_month.plot(kind='line',ax=axs[1,0])
 axs[1,0].set_title('Games released per month')
-axs[1,0].set_xlabel('Month')
+axs[1,0].set_xlabel('Year')
 axs[1,0].set_ylabel('Number of apps released')
 
 music_monthly_counts['Released'] = pd.to_datetime(music_monthly_counts['Released'], utc=True)
@@ -84,7 +84,7 @@ music_monthly_counts['year_month'] = music_monthly_counts['Released'].dt.to_peri
 music_year_month = music_monthly_counts.groupby('year_month').size()
 music_year_month.plot(kind='line',ax=axs[1,1])
 axs[1,1].set_title('Music apps released per month')
-axs[1,1].set_xlabel('Month')
+axs[1,1].set_xlabel('Year')
 axs[1,1].set_ylabel('Number of apps released')
 
 health_monthly_counts['Released'] = pd.to_datetime(health_monthly_counts['Released'], utc=True)
@@ -92,7 +92,7 @@ health_monthly_counts['year_month'] = health_monthly_counts['Released'].dt.to_pe
 health_year_month = health_monthly_counts.groupby('year_month').size()
 health_year_month.plot(kind='line',ax=axs[1,2])
 axs[1,2].set_title('Health & fitness apps released per month')
-axs[1,2].set_xlabel('Month')
+axs[1,2].set_xlabel('Year')
 axs[1,2].set_ylabel('Number of apps released')
 
 #counting largest 10 apps by size per year
